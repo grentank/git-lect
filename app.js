@@ -3,3 +3,7 @@
 // 3. hello world
 
 const add = require('./add');
+
+function h() {
+  console.log('Hello, world!');
+}
